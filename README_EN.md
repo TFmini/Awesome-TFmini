@@ -1,17 +1,17 @@
 # TFmini
 
-[TFmini](http://benewake.com/tfmini.html), [官方资料](http://benewake.com/down.html), [淘宝购买链接](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-15511889465.14.58ac1084x6ubC&id=554821569293), 亦可直接联系[北醒](http://benewake.com/index.html).  
-# 客户使用TFmini案例汇总
+[TFmini Introduction](http://benewake.com/en/tfmini.html), [Official Documents](http://benewake.com/en/down.html), [Buy from RobotShop](https://www.robotshop.com/en/benewake-tfmini-micro-lidar-module-12-m.html), or directly contact [Benewake](http://benewake.com/en/index.html).  
+# TFmini Users' Applications
 
 
-1. [TFmini通过I2C接口在Pixhawk的操作使使用案例](https://discuss.ardupilot.org/t/how-to-make-the-tfmini-rangefinder-talk-i2c/24403)
-<br>本案例详细介绍了通过I2C通讯协议在pixhawk飞控使用说明其中包含：I2C接口程序、TFmini在Pixhawk演示视频。
+1. [Connecting the TFmini to the Pixhawk flight controller via I2C interface](https://discuss.ardupilot.org/t/how-to-make-the-tfmini-rangefinder-talk-i2c/24403)
+<br>This example introduces how to connect the TFmini rangefinder to the Pixhawk flight controller via I2C interface, including the Arduino codes for I2C and the video of flight with TFmini.
 
-2. [TFmini通过I2C接口多个TFmini在Pixhawk避障的操作使用案例](https://discuss.ardupilot.org/t/avoidance-experiments-with-the-poc-and-benewake-tfmini/25277)
-<br>本案例详细介绍了通过I2C接口多个TFmini同时工作在pixhawk飞控避障使用说明其中包含：I2C接口程序、多个TFmini在Pixhawk同时工作的演示视频。
+2. [Connecting multiple TFminis to the Pixhawk flight controller via I2C interface and achieving obstacle avoidance](https://discuss.ardupilot.org/t/avoidance-experiments-with-the-poc-and-benewake-tfmini/25277)
+<br>This example introduces how to connect multiple TFminis to the Pixhawk flight controller via I2C interface and achieve obstacle avoidance, including the Arduino codes for avoidance via TFmini and the video of multiple TFminis working on Pixhawk.
 
-3. [TFmini在Teensy3.5转接板操作使用案例](https://discuss.ardupilot.org/t/benewake-tfmini-inexpensive-lidar-with-teensy-3-5/24510)
-<br>本案例详细介绍了TFmini在Teensy3.5转接板的操作流程，包含线序的连接、数据的读取。
+3. [Connecting the TFmini to the Teensy 3.5](https://discuss.ardupilot.org/t/benewake-tfmini-inexpensive-lidar-with-teensy-3-5/24510)
+<br>This example introduces how to connect the TFmini to the Teensy 3.5, including serial connection and reading data.
  
 
 
