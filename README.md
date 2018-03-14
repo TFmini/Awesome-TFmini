@@ -38,12 +38,12 @@ TFmini information Collection.
 - [TFmini-Processing](https://github.com/TFmini/TFmini-Processing)
 <br>TFmini's Processing examples: Console or GUI. These codes can be run on macOS, Linux, Windows, Raspbain etc. The GUI like this:
 <br>
-<br>![tfminiGUI](https://github.com/TFmini/TFmini-Processing/raw/master/Assets/tfminiGUI.png)  
+<br> ![tfminiGUI](https://github.com/TFmini/TFmini-Processing/raw/master/Assets/tfminiGUI.png)  
 
 - [TFmini-macOS](https://github.com/TFmini/TFmini-macOS)
 <br>Link TFmini and macOS with TTL-USB. Developed by Xcode 9 & Swift 4. ORSSerialPort is used.  You can download TFmini-1.0.dmg on [release](https://github.com/TFmini/TFmini-macOS/releases).
 <br>
-<br>![](https://github.com/TFmini/TFmini-macOS/raw/master/Assets/TFminiGUI.jpg)  
+<br> ![](https://github.com/TFmini/TFmini-macOS/raw/master/Assets/TFminiGUI.jpg)  
 
 ---
 

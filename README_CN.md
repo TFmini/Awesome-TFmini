@@ -35,12 +35,12 @@ TFmini信息收集.  [English Version Readme](/README.md)
 - [TFmini-Processing](https://github.com/TFmini/TFmini-Processing)
 <br>TFmini的Processing例程, 包含控制台和GUI两个例子, 代码可以在macOS, Linux, Windows等系统上使用. GUI如下: 
 <br>
-<br>![tfminiGUI](https://github.com/TFmini/TFmini-Processing/raw/master/Assets/tfminiGUI.png)  
+<br> ![tfminiGUI](https://github.com/TFmini/TFmini-Processing/raw/master/Assets/tfminiGUI.png)  
 
 - [TFmini-macOS](https://github.com/TFmini/TFmini-macOS)
 <br>用 USB转串口(CH340, CP210x等) 连接 TFmini 到 MacBook 上. 使用 Xcode 9 & Swift 4 & ORSSerialPort库 开发.  可以直接在 [release](https://github.com/TFmini/TFmini-macOS/releases) 下载 TFmini-1.0.dmg 安装使用.
 <br>
-<br>![](https://github.com/TFmini/TFmini-macOS/raw/master/Assets/TFminiGUI.jpg)  
+<br> ![](https://github.com/TFmini/TFmini-macOS/raw/master/Assets/TFminiGUI.jpg)  
 
 ---
 
