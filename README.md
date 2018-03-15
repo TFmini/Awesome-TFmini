@@ -36,12 +36,10 @@ TFmini information Collection.
 <br>TFmini's examples on 51 MCU, like STC89C59, STC12C5A60S2, STC15W204S, STC15F2K60S2 etc, hardware serial and software serial were used.  
 
 - [TFmini-Processing](https://github.com/TFmini/TFmini-Processing)
-<br>TFmini's Processing examples: Console or GUI. These codes can be run on macOS, Linux, Windows, Raspbain etc. The GUI like this:  
-![tfminiGUI](https://github.com/TFmini/TFmini-Processing/raw/master/Assets/tfminiGUI.png)  
+<br>TFmini's Processing examples: Console or GUI. These codes can be run on macOS, Linux, Windows, Raspbain etc.  
 
 - [TFmini-macOS](https://github.com/TFmini/TFmini-macOS)
-<br>Link TFmini and macOS with TTL-USB. Developed by Xcode 9 & Swift 4. ORSSerialPort is used.  You can download TFmini-1.0.dmg on [release](https://github.com/TFmini/TFmini-macOS/releases).  
-![](https://github.com/TFmini/TFmini-macOS/raw/master/Assets/TFminiGUI.jpg)  
+<br>Link TFmini and macOS with TTL-USB. Developed by Xcode 9 & Swift 4. ORSSerialPort is used. You can download TFmini-1.0.dmg on [release](https://github.com/TFmini/TFmini-macOS/releases).   
 
 ---
 
@@ -54,7 +52,7 @@ TFmini information Collection.
 - [opensensinglab/tfmini](https://github.com/opensensinglab/tfmini)
 <br>An Arduino driver for the Benewake TFMini time-of-flight distance sensor, can be searched on arduino library.  
 
-- [MomsFriendlyRobotCompany/tfmini](https://github.com/MomsFriendlyRobotCompany/tfmini)  
+- [MomsFriendlyRobotCompany/tfmini](https://github.com/MomsFriendlyRobotCompany/tfmini)
 <br>TFmini's Python Driver. 
 
 
