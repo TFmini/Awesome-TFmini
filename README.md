@@ -4,9 +4,10 @@ TFmini information Collection.
 
 [Chinese Introduction/中文介绍、客户使用TFmini案例汇总](/README_CN.md)
 
-- [Official](#official)   
-- [Examples](#examples)  
-- [Applications](#applications)    
+- [Awesome-TFmini](#awesome-tfmini)
+  - [Official](#official)
+  - [Examples](#examples)
+  - [Applications](#applications)
 
 
 ## Official
@@ -15,7 +16,7 @@ TFmini information Collection.
 
 - [TFmini data download](http://benewake.com/en/down.html).  
 
-- [Buy from RobotShop](https://www.robotshop.com/en/benewake-tfmini-micro-lidar-module-12-m.html), or directly contact [Benewake](http://benewake.com/en/index.html).  
+- Buy from [adafruit](https://www.adafruit.com/product/3978), [RobotShop](https://www.robotshop.com/en/benewake-tfmini-micro-lidar-module-12-m.html), or directly contact [Benewake](http://benewake.com/en/index.html).  
 
 
 ## Examples
