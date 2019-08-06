@@ -1,14 +1,8 @@
 # Awesome-TFmini
 
-TFmini information Collection. 
+**TFmini information Collection.** 
 
-[Chinese Introduction/中文介绍、客户使用TFmini案例汇总](/README_CN.md)
-
-- [Awesome-TFmini](#awesome-tfmini)
-  - [Official](#official)
-  - [Examples](#examples)
-  - [Applications](#applications)
-
+TFmini is a mini LiDAR module. It is mainly capable of the function of real-time and contactless distance measurement and is featured by accurate, stable and high-speed distance measurement.
 
 ## Official
 
@@ -17,47 +11,6 @@ TFmini information Collection.
 - [TFmini data download](http://benewake.com/en/down.html).  
 
 - Buy from [adafruit](https://www.adafruit.com/product/3978), [RobotShop](https://www.robotshop.com/en/benewake-tfmini-micro-lidar-module-12-m.html), or directly contact [Benewake](http://benewake.com/en/index.html).  
-
-
-## Examples
-
-- [TFmini-Arduino](https://github.com/TFmini/TFmini-Arduino)
-<br>Give the TFmini's HardwareSerial_Polling, HardwareSerial_Interrupt, SoftwareSerial, SoftwareSerial_Multiple, SoftwareSerial_Multiple_Frequency, I2C_1Master1Slave etc examples on Arduino. 
-
-- [TFmini-RaspberryPi](https://github.com/TFmini/TFmini-RaspberryPi)
-<br>Give the TFmini's HardwareSerial, SimulatedSerial examples using Python2 or Python3 on Raspberry Pi.  The Python code can be used in macOS, Linux or Windows.  
-
-- [TFmini-Pyboard](https://github.com/TFmini/TFmini-Pyboard)
-<br>TFmini's example on Pyboard, MicroPython is used. 
-
-- [TFmini-STM32](https://github.com/TFmini/TFmini-STM32)
-<br>Used STM32Cube MX and Keil as development tools, include 2 kinds of TFmini communication protocol: PIX and Standard Data Format(89BYTE), 2 kinds of output: switching value, CAN.  
-
-- [TFmini-51MCU](https://github.com/TFmini/TFmini-51MCU)
-<br>TFmini's examples on 51 MCU, like STC89C59, STC12C5A60S2, STC15W204S, STC15F2K60S2 etc, hardware serial and software serial were used.   
-
-- [TFmini-ROS](https://github.com/TFmini/TFmini-ROS)  
-<br>TFmini's Examples for ROS.  
-
-- [TFmini-Processing](https://github.com/TFmini/TFmini-Processing)
-<br>TFmini's Processing examples: Console or GUI. These codes can be run on macOS, Linux, Windows, Raspbain etc.  
-
-- [TFmini-macOS](https://github.com/TFmini/TFmini-macOS)
-<br>Link TFmini and macOS with TTL-USB. Developed by Xcode 9 & Swift 4. ORSSerialPort is used. You can download TFmini-1.0.dmg on [release](https://github.com/TFmini/TFmini-macOS/releases).   
-
----
-
-- [patrickpoirier51/TFMINI](https://github.com/patrickpoirier51/TFMINI)
-<br>BeneWake TFMINI - Arduino code
-
-- [patrickpoirier51/TFMINI_MAXBOTIX_EMULATOR](https://github.com/patrickpoirier51/TFMINI_MAXBOTIX_EMULATOR)
-<br>This is an Arduino Sketch that allow the TFMINI to be connected to a flight controler using I2C by emulating a Maxbotix rangefinder.
-
-- [opensensinglab/tfmini](https://github.com/opensensinglab/tfmini)
-<br>An Arduino driver for the Benewake TFMini time-of-flight distance sensor, can be searched on arduino library.  
-
-- [MomsFriendlyRobotCompany/tfmini](https://github.com/MomsFriendlyRobotCompany/tfmini)
-<br>TFmini's Python Driver. 
 
 
 ## Applications
